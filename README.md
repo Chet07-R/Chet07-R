@@ -1,6 +1,7 @@
 # 💫 About Me:
 Driven Computer Science Undergrad | Eager to Make an Impact in the Tech Industry
 
+![giphy](https://github.com/user-attachments/assets/25fc541f-15c5-4e03-a498-31da415f1fda)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CHETAN AJMANI) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/CHETAN AJMANI) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CHETAN AJMANI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajmanichetan@gmail.com) 
