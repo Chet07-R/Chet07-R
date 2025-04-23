@@ -3,8 +3,6 @@ Driven Computer Science Undergrad | Eager to Make an Impact in the Tech Industry
 
 ![giphy](https://github.com/user-attachments/assets/93390ce6-6a61-4eff-bbe9-e027436e734c)
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CHETANAJMANI) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/CHETANAJMANI) 
