@@ -4,20 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Chetan+Ajmani;CS+Undergrad+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
 
 ![giphy](https://github.com/user-attachments/assets/93390ce6-6a61-4eff-bbe9-e027436e734c)
-
 ---
-
 
 ## 🌐 Connect With Me
 
-<div align="center"
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CHETANAJMANI)  
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/CHETANAJMANI)  
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CHETANAJMANI)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CHETANAJMANI)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/CHETANAJMANI)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CHETANAJMANI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajmanichetan@gmail.com)
-
-</div>
 
 ---
 
