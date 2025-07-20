@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Building Dynamic Front-Ends | Implementing Java DSA | Driven by Clean Code & Performance**
+**Front-End & Java DSA | Solving Problems with Code**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Chetan+Ajmani;CS+Undergrad+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
 
